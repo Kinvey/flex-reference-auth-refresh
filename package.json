@@ -1,0 +1,29 @@
+{
+  "name": "flexauth",
+  "version": "0.0.3",
+  "description": "Kinvey Flex authentication example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0bot/flexAuth.git"
+  },
+  "keywords": [
+    "flex",
+    "kinvey",
+    "auth",
+    "example",
+    "test"
+  ],
+  "author": "Pavel Zlatanov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/r0bot/flexAuth/issues"
+  },
+  "homepage": "https://github.com/r0bot/flexAuth#readme",
+  "dependencies": {
+    "kinvey-flex-sdk": "^3.2.1"
+  }
+}
